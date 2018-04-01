@@ -4,6 +4,10 @@ This repository contains projects that I have worked on showcasing various skill
 
 ## Contents
 
+* ### Machine Learning
+
+  * [Iris Dataset](https://github.com/laurarnichols/dataSciencePortfolio/tree/master/irisLinearRegression): Use SciKit linear regression to predict petal width from petal length
+
 * ### Data Cleaning
 
   * [Energy, GDP, and Publishing Data by Country](https://github.com/laurarnichols/dataSciencePortfolio/tree/master/energyGDPPublishing) 
