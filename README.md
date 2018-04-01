@@ -6,4 +6,7 @@ This repository contains projects that I have worked on showcasing various skill
 
 * ### Data Cleaning
 
-  * [Energy, GDP, and Publishing Data by Country](https://github.com/laurarnichols/dataSciencePortfolio/tree/master/energyGDPPublishing)
+  * [Energy, GDP, and Publishing Data by Country](https://github.com/laurarnichols/dataSciencePortfolio/tree/master/energyGDPPublishing): 
+
+* ### Exploratory Data Analysis 
+  * [Movie Lens Data](https://github.com/laurarnichols/dataSciencePortfolio/tree/master/movieLens)
