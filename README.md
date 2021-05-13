@@ -1,5 +1,4 @@
-# Data Science Portfolio
-
+# Data Science Projects
 This repository contains projects that I have worked on through workshops and online classes and tutorials, developing and showcasing various skills needed to be successful as a data scientist. I am learning the various tools and skills and this portfolio will document my projects along the way.
 
 ## Contents
