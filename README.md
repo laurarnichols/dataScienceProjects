@@ -12,3 +12,15 @@ This repository contains projects that I have worked on through workshops and on
    * Gain insights into data using exploratory data analysis
 * [Iris Dataset](https://github.com/laurarnichols/dataSciencePortfolio/tree/master/irisLinearRegression)
    * Use SciKit linear regression to predict petal width from petal length
+
+### Computer Vision
+* [Image Processing Basics](https://github.com/laurarnichols/dataSciencePortfolio/tree/master/imageProcessingBasics)
+   * Based on [this tutorial/workshop](https://datacarpentry.org/image-processing/)
+   * Reviewing ifferent file types for images and metadata
+   * Drawing on images using `skimage.draw`
+   * Creating pixel-value histograms for both grayscale and color images
+   * Applying Gaussian blurring
+   * Applying thresholding to create binary image
+   * Detecting edges using `skimage.feature.canny`
+   * Detecting connected objects using `skimage.measure.label`
+   * Combine skills from tutorial in two challenges: detecting and counting bacteria colonies and tracking average channel values in a titration video
